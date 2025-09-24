@@ -1,2 +1,2 @@
-DAG_functions.py contains all functions need to build FSM
-
+- `DAG_functions.py` contains all functions needed to build the FSM  
+- `DAG_layer_con.ipynb` builds the FSM  
